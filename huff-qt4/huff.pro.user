@@ -1,0 +1,271 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">huff.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">huff</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\i\AppData\Roaming</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=DARKNEO</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer</value>
+    <value type="QString">FPS_BROWSER_USER_PROFILE_STRING=Default</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\i</value>
+    <value type="QString">KMP_DUPLICATE_LIB_OK=TRUE</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\i\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\DARKNEO</value>
+    <value type="QString">MKL_SERIAL=YES</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=8</value>
+    <value type="QString">ONEDRIVE=C:\Users\i\OneDrive</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\qt\mingw\bin;F:\qt\qt\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\i\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\i\AppData\Local\GitHubDesktop\bin;C:\Program Files\Python36;C:\Python27;C:\Users\i\AppData\Local\Microsoft\WindowsApps;</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=5e03</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules</value>
+    <value type="QString">PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=F:/qt/qt</value>
+    <value type="QString">QT_DEVICE_PIXEL_RATIO=auto</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\Users\i\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\i\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=DARKNEO</value>
+    <value type="QString">USERDOMAIN_ROAMINGPROFILE=DARKNEO</value>
+    <value type="QString">USERNAME=i</value>
+    <value type="QString">USERPROFILE=C:\Users\i</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">C:/Users/i/Desktop/huff/huff.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">f:/qt/qt/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/i/Desktop/huff</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\i\AppData\Roaming</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=DARKNEO</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer</value>
+    <value type="QString">FPS_BROWSER_USER_PROFILE_STRING=Default</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\i</value>
+    <value type="QString">KMP_DUPLICATE_LIB_OK=TRUE</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\i\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\DARKNEO</value>
+    <value type="QString">MKL_SERIAL=YES</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=8</value>
+    <value type="QString">ONEDRIVE=C:\Users\i\OneDrive</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\qt\mingw\bin;F:\qt\qt\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\i\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\i\AppData\Local\GitHubDesktop\bin;C:\Program Files\Python36;C:\Python27;C:\Users\i\AppData\Local\Microsoft\WindowsApps;</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=5e03</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules</value>
+    <value type="QString">PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=F:/qt/qt</value>
+    <value type="QString">QT_DEVICE_PIXEL_RATIO=auto</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\Users\i\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\i\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=DARKNEO</value>
+    <value type="QString">USERDOMAIN_ROAMINGPROFILE=DARKNEO</value>
+    <value type="QString">USERNAME=i</value>
+    <value type="QString">USERPROFILE=C:\Users\i</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">F:/qt/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/i/Desktop/huff</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
